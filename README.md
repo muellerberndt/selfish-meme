@@ -11,3 +11,5 @@ I propose that:
 - Mind is primary and everything happens for a reason.
 
 For now, you can read it on [Medium](https://medium.com/@muellerberndt/memetic-natural-selection-how-memes-create-all-of-reality-8be4722b6a2).
+
+If you have ideas, please create issues and make pull requests. Tnis is supposed to be a theory by everyone.
